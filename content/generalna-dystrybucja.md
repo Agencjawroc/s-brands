@@ -53,5 +53,4 @@ strona_producenta = ""
 tytul_odnosnika = ""
 zdjecie = ""
 zdjecie2 = ""
-
 +++
