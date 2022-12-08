@@ -13,9 +13,9 @@ weight = 8
 alt_img = ""
 alt_img_mb_1 = ""
 alt_img_mb_2 = ""
-zdjecie_1_mobilne = "/uploads/sbrands-general-dist-1-4-a.jpg"
-zdjecie_2_mobilne = "/uploads/sbrands-general-dist-1-4-b.jpg"
-zdjecie_duze = "/uploads/sbrands-general-dist-1-4.jpg"
+zdjecie_1_mobilne = ""
+zdjecie_2_mobilne = ""
+zdjecie_duze = ""
 [[sec_2_pic]]
 adres_odnosnika = "kontakt.md"
 alt_img = "Mades Cosmetics"
@@ -53,4 +53,5 @@ strona_producenta = ""
 tytul_odnosnika = ""
 zdjecie = ""
 zdjecie2 = ""
+
 +++
