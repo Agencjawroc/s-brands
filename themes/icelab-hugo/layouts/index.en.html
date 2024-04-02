@@ -187,9 +187,9 @@
       {{ $galeria_len := len . }}
       {{ range $index, $element := . }}
       {{if or (and (ge $galeria_len 16) (eq $index 8)) (and (le $galeria_len 15) (eq $index 4))}}
-        <li class='gallery-header'>
-          <div class="header-cnt">
-            {{- partial "header-tag.html" (dict "context" . "header_list" $header_repeater "custom_class" "banner-header")  -}}
+        <li class='gallery-header' style="grid-area: unset;">
+          <div class="header-cnt" style="flex-direction: column;">
+            {{- partial "header-tag.html" (dict "context" . "header_list" $header_repeater "custom_class" "banner-header marki-custom")  -}}
             <!-- <div class="description-wrapper">
               <p>{{$opis_sekcji | safeHTML}}</p>
               
@@ -200,6 +200,34 @@
               {{end}}
             </div> -->
             <a class="cta-button" href="/en/our-brands/">Read more</a>
+            <style>
+              .marki-custom{
+                padding: 0 !important;
+              }
+              
+
+              .gallery-header.cta-button {
+                  background: #000 no-repeat padding-box;
+                  border-radius: 8px;
+                  color: #fff;
+                  text-transform: uppercase;
+                  padding: 0.6rem 3rem 0.6rem 1.5rem;
+                  display: inline-block;
+                  margin-top: 1rem;
+                  position: relative;
+                  font-size: 1.25rem;
+                  max-width: 15rem;
+                  transition: background .3s ease, color .3s ease;
+                  box-shadow: 0 0 10px #0000001F;
+                  border: 1px solid #000;
+                  align-self: flex-end;
+              }
+              .gallery-header .cta-button:hover {
+                text-decoration: none;
+                background: #fff;
+                color: #000;
+              }
+            </style>
           </div>    
         </li>
 
