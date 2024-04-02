@@ -187,8 +187,13 @@
       {{ range $index, $element := . }}
       {{if or (and (ge $galeria_len 16) (eq $index 8)) (and (le $galeria_len 15) (eq $index 4))}}
         <li class='gallery-header' style="grid-area: unset;">
-          <div class="header-cnt">
-            {{- partial "header-tag.html" (dict "context" . "header_list" $header_repeater "custom_class" "banner-header")  -}}
+          <div class="header-cnt" style="flex-direction: column;">
+            {{- partial "header-tag.html" (dict "context" . "header_list" $header_repeater "custom_class" "banner-header marki-custom")  -}}
+            <style>
+              .marki-custom{
+                padding: 0 !important;
+              }
+            </style>
             <!-- <div class="description-wrapper">
               <p>{{$opis_sekcji | safeHTML}}</p>
               
