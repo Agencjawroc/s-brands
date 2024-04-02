@@ -207,7 +207,7 @@ txt_block = "Nasze marki"
 txt_block_size = "XL"
 underline = false
 [nasze_produkty]
-opis_sekcji = "W ofercie naszej hurtowni kosmetycznej znajdują się artykuły należące do czterech grup produktowych"
+opis_sekcji = "W ofercie naszej hurtowni kosmetycznej znajdują się artykuły należące do sześciu kategorii pielęgnacji"
 [[nasze_produkty.grupy_produktow]]
 adres_odnosnika = "nasze-marki/_index.md"
 kotwica_grupy = "kosmetyki-do-makijazu"

@@ -199,7 +199,7 @@ txt_block = "Our brands"
 txt_block_size = "XL"
 underline = false
 [nasze_produkty]
-opis_sekcji = "Our offer includes articles belonging to four product groups"
+opis_sekcji = "Our offer includes articles belonging to six care categories"
 [[nasze_produkty.grupy_produktow]]
 adres_odnosnika = "nasze-marki/_index.en.md"
 kotwica_grupy = "MakeUp"
