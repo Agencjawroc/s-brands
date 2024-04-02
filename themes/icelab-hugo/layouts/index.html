@@ -189,7 +189,7 @@
         <li class='gallery-header'>
           <div class="header-cnt">
             {{- partial "header-tag.html" (dict "context" . "header_list" $header_repeater "custom_class" "banner-header")  -}}
-            <div class="description-wrapper">
+            <!-- <div class="description-wrapper">
               <p>{{$opis_sekcji | safeHTML}}</p>
               
               {{ if $adres_odnosnika }}
@@ -197,7 +197,8 @@
                     <a class='cta-button' href='{{.RelPermalink}}'>{{$tytul_odnosnika}}<img class='arr-ico' src="{{ `images/arr_white.svg` | absURL }}"></a>
                 {{end}}
               {{end}}
-            </div>
+            </div> -->
+            <a class="cta-button" href="/nasze-marki/">Sprawdź</a>
           </div>    
         </li>
 
