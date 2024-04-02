@@ -53,30 +53,30 @@ strona_producenta = ""
 tytul_odnosnika = ""
 zdjecie = ""
 zdjecie2 = ""
-<!-- [[sec_2_pic]]
-adres_odnosnika = "kontakt.en.md"
-alt_img = ""
-alt_img_2 = ""
-kotwica = "the-cosmetic-republic"
-logo = "/uploads/tcr.png"
-opis_sekcji = "Our genetics, lifestyle choices and environmental conditions all reflect the healthy appearance of our hair. Unbalanced diet, stress, lack of sleep, pollution, aggressive hair dyes and irons are the main factors that affect hair condition no matter the hair type.<br><br>The Cosmetic Republic's innovative products are unique hair care solutions to balance your daily hair challenges based on natural recipes, without agressive chemicals. Our product line is paraben and sulfate free, respecting the natural balance of the scalp. Our patented, exclusive formulas ugo through a cold-pressed roduction process, which makes them more effective, and we enrich them at the same time with essential minerals to make your hair healthier and stronger."
-strona_producenta = "https://thecosmeticrepublic.com"
-tytul_odnosnika = "More details >>"
-zdjecie = "/uploads/sbrands-general-dist-3.jpg"
-zdjecie2 = ""
-[[sec_2_pic.header_repeater]]
-block_tag_type = "h2"
-bold_txt = "gruby"
-break_line = false
-txt_block = "THE COSMETIC REPUBLIC"
-txt_block_size = ""
-underline = false
-[[sec_2_pic.header_repeater]]
-block_tag_type = "h2"
-bold_txt = "normalny"
-break_line = false
-txt_block = "HAIR HEALTH EXPERTS"
-txt_block_size = "MD"
-underline = false -->
+# [[sec_2_pic]]
+# adres_odnosnika = "kontakt.en.md"
+# alt_img = ""
+# alt_img_2 = ""
+# kotwica = "the-cosmetic-republic"
+# logo = "/uploads/tcr.png"
+# opis_sekcji = "Our genetics, lifestyle choices and environmental conditions all reflect the healthy appearance of our hair. Unbalanced diet, stress, lack of sleep, pollution, aggressive hair dyes and irons are the main factors that affect hair condition no matter the hair type.<br><br>The Cosmetic Republic's innovative products are unique hair care solutions to balance your daily hair challenges based on natural recipes, without agressive chemicals. Our product line is paraben and sulfate free, respecting the natural balance of the scalp. Our patented, exclusive formulas ugo through a cold-pressed roduction process, which makes them more effective, and we enrich them at the same time with essential minerals to make your hair healthier and stronger."
+# strona_producenta = "https://thecosmeticrepublic.com"
+# tytul_odnosnika = "More details >>"
+# zdjecie = "/uploads/sbrands-general-dist-3.jpg"
+# zdjecie2 = ""
+# [[sec_2_pic.header_repeater]]
+# block_tag_type = "h2"
+# bold_txt = "gruby"
+# break_line = false
+# txt_block = "THE COSMETIC REPUBLIC"
+# txt_block_size = ""
+# underline = false
+# [[sec_2_pic.header_repeater]]
+# block_tag_type = "h2"
+# bold_txt = "normalny"
+# break_line = false
+# txt_block = "HAIR HEALTH EXPERTS"
+# txt_block_size = "MD"
+# underline = false
 
 +++
