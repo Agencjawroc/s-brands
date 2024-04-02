@@ -34,7 +34,7 @@ logo_2 = "/uploads/mades-logo-2016-web.png"
 block_tag_type = "h2"
 bold_txt = "gruby"
 break_line = true
-txt_block = "NEW!"
+txt_block = ""
 txt_block_size = "XL"
 underline = false
 [[dystrybucja_section.header_repeater]]
