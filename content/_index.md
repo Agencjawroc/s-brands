@@ -35,7 +35,7 @@ logo = "/uploads/tcr.png"
 logo_2 = "/uploads/mades-logo-2016-web.png"
 zdjecie_1 = "/uploads/cosmetic-republic.jpg"
 zdjecie_1_alt = "Cosmetic Republic"
-zdjecie_2 = "/uploads/mades-cosmetics-1.webp
+zdjecie_2 = "/uploads/mades-cosmetics-1.webp"
 zdjecie_2_alt = "Mades"
 [[dystrybucja_section.header_repeater]]
 block_tag_type = "div"
