@@ -42,6 +42,18 @@ txt_block = "THE NATURAL SKIN, HAIR & BODY CARE EXPERIENCE"
 txt_block_size = "MD"
 underline = false
 [[sec_2_pic]]
+adres_odnosnika = []
+alt_img = ""
+alt_img_2 = ""
+header_repeater = []
+kotwica = ""
+logo = ""
+opis_sekcji = ""
+strona_producenta = ""
+tytul_odnosnika = ""
+zdjecie = ""
+zdjecie2 = ""
+<!-- [[sec_2_pic]]
 adres_odnosnika = "kontakt.en.md"
 alt_img = ""
 alt_img_2 = ""
@@ -65,6 +77,6 @@ bold_txt = "normalny"
 break_line = false
 txt_block = "HAIR HEALTH EXPERTS"
 txt_block_size = "MD"
-underline = false
+underline = false -->
 
 +++
