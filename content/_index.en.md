@@ -27,7 +27,7 @@ adres_odnosnika_2 = "generalna-dystrybucja.md"
 kotwica_odnosnika = "the-cosmetic-republic"
 kotwica_odnosnika_2 = "mades"
 zdjecie_1 = "/uploads/cosmetic-republic.jpg"
-zdjecie_2 = "/uploads/mades.jpg"
+zdjecie_2 = "/uploads/mades-cosmetics-1.webp"
 logo = "/uploads/tcr.png"
 logo_2 = "/uploads/mades-logo-2016-web.png"
 [[dystrybucja_section.header_repeater]]
