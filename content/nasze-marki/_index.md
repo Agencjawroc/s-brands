@@ -12,11 +12,7 @@ name = "Nasze marki"
 weight = 4
 [[grupa_marek]]
 kotwica_grupy = "kosmetyki-do-makijazu"
-tytul_grupy = "Kosmetyki do makijażu A"
-[[grupa_marek.marki]]
-ikona_marki = "/uploads/catrice_cosmetics_logo.jpg"
-odnisnik_marki = "nasze-marki/clarincs.md"
-tytul_marki = "Catrice Cosmetics"
+tytul_grupy = "Kosmetyki do makijażu"
 [[grupa_marek.marki]]
 ikona_marki = "/uploads/essence_cosmetics_logo.jpg"
 odnisnik_marki = "nasze-marki/essence.md"
