@@ -1,5 +1,5 @@
 +++
-adres_odnosnika = "nasze-marki/vichy.md"
+adres_odnosnika = "nasze-marki/vichy2.md"
 dodaj_formularz = true
 html_czysty = ""
 logo_marki = "/uploads/group-185.jpg"
