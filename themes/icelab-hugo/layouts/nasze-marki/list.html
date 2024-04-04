@@ -15,31 +15,7 @@
         </div>
         
     </section>
-        {{with .grupa_marek}}
-        <section class="brands-area" >
-            {{range . }}
-                {{$tytul_grupy:=.tytul_grupy}}
-                {{$kotwica_grupy:=.kotwica_grupy}}
-                
-                {{with .marki}}
-              
-                
-                    <h2 class="group-header" id="{{$kotwica_grupy}}">{{$tytul_grupy}}</h2>
-                    <ul class="brands-img-wrapper">
-                        {{range .}}
-                        
-                      
-                            <li class="brand-img-cnt ">
-                                
-                                
-                                
-                                
-                            </li>
-                        {{end}}
-                    </ul>
-                {{end}}
-            {{end}}
-        {{end}}
+        
     
     </section>
     {{end}}
