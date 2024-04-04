@@ -48,6 +48,24 @@
             </a>
         </div>
     </section>
+
+    <style>
+        .grupa-marki{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+        .grupa-marki > div{
+            width: calc(33.33% - 60px/3);
+            background-color: #111;
+            color: #fff;
+            padding: 2rem;
+        }
+        .grupa-marki > div a{
+            color: #FFF;
+            text-decoration: none;
+        }
+    </style>
     
     {{end}}
     {{if .Params.dodaj_formularz }}
