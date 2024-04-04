@@ -1,5 +1,5 @@
 +++
-adres_odnosnika = "nasze-marki/alfaparf-milano.md"
+adres_odnosnika = "nasze-marki/makijaz.md"
 dodaj_formularz = true
 html_czysty = ""
 logo_marki = "/uploads/group-177.jpg"
