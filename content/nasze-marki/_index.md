@@ -17,30 +17,6 @@ tytul_grupy = "Kosmetyki do makijażu"
 ikona_marki = "/uploads/essence_cosmetics_logo.jpg"
 odnisnik_marki = "nasze-marki/essence.md"
 tytul_marki = "Essence Cosmetics"
-[[grupa_marek.marki]]
-ikona_marki = "/uploads/mac_logo.jpg"
-odnisnik_marki = "nasze-marki/mac.md"
-tytul_marki = "MAC"
-[[grupa_marek.marki]]
-ikona_marki = "/uploads/makeupforever_logo.jpg"
-odnisnik_marki = "nasze-marki/make-up-for-ever.md"
-tytul_marki = "Make Up For Ever"
-[[grupa_marek.marki]]
-ikona_marki = "/uploads/kiko_milano_logo.jpg"
-odnisnik_marki = "nasze-marki/kiko-milano.md"
-tytul_marki = "Kiko Milano"
-[[grupa_marek.marki]]
-ikona_marki = "/uploads/opi_logo.jpg"
-odnisnik_marki = "nasze-marki/opi.md"
-tytul_marki = "OPI"
-[[grupa_marek.marki]]
-ikona_marki = "/uploads/revolution_beauti_london_logo.jpg"
-odnisnik_marki = "nasze-marki/makeup-revolution.md"
-tytul_marki = "Revolution Beauti London"
-[[grupa_marek.marki]]
-ikona_marki = "/uploads/group-172.jpg"
-odnisnik_marki = "nasze-marki/dermacol.md"
-tytul_marki = "Dermacol"
 [[grupa_marek]]
 kotwica_grupy = "dermokosmetyki"
 tytul_grupy = "Dermokosmetyki "
