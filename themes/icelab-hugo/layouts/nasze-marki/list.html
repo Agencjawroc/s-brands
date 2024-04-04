@@ -33,17 +33,7 @@
                                 
                                 
                                 
-                                {{ with   .odnisnik_marki }}
-                                    
-                                    {{ with site.GetPage  . }}
-                                        <a class='' href='{{.RelPermalink}}'>
-                                    {{end}}
-                                    {{end}}
                                 
-                                {{- partial "img.html" (dict "image" .ikona_marki "imgsizes" "80vw" "tag_class" "brand-img" "ifsrcset" "nosrcset" "imgalt" .tytul_marki "awsites" $sites)  -}}
-                                {{ with .odnisnik_marki }}
-                                    </a>
-                                {{end}}
                             </li>
                         {{end}}
                     </ul>
