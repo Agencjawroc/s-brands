@@ -16,7 +16,7 @@ zdjecie = ""
 block_tag_type = "h1"
 bold_txt = "gruby"
 break_line = false
-txt_block = "PERFUMY"
+txt_block = "FRAGRANCES"
 txt_block_size = "XXL"
 underline = false
 
