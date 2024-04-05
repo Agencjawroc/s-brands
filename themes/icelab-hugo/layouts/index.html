@@ -181,39 +181,6 @@
   {{$tytul_odnosnika:= .tytul_odnosnika}}
   {{$adres_odnosnika:= .adres_odnosnika}}
   <section class="ourbrands-area" >
-    <ul class="brands-img-wrapper">
-      <li class="gallery-header" style="grid-area:unset"><div class="header-cnt" style="flex-direction:column">
-        <h3 class="header-template banner-header marki-custom"><span class="f-w700 txt-black txt-XL">Nasze marki</span></h3>
-        <a class="cta-button" href="/nasze-marki/">Sprawdź</a>
-        <style>
-          .marki-custom{
-            padding: 0 !important;
-          }
-          .gallery-header .cta-button {
-              background: #000 no-repeat padding-box;
-              border-radius: 8px;
-              color: #fff;
-              text-transform: uppercase;
-              padding: 0.6rem 1.5rem;
-              display: inline-block;
-              position: relative;
-              font-size: 1.25rem;
-              max-width: 15rem;
-              transition: background .3s ease, color .3s ease;
-              box-shadow: 0 0 10px #0000001F;
-              border: 1px solid #000;
-              align-self: flex-start;
-          }
-          .gallery-header .cta-button:hover {
-            text-decoration: none;
-            background: #fff;
-            color: #000;
-          }
-        </style>
-        </div>
-      </li>
-    </ul>
-    {{*/ 
     {{with .grupa_marek}}
     <ul class="brands-img-wrapper">
       {{ $galeria_len := len . }}
@@ -233,10 +200,36 @@
               {{end}}
             </div> -->
             <a class="cta-button" href="/nasze-marki/">Sprawdź</a>
-            
+            <style>
+              .marki-custom{
+                padding: 0 !important;
+              }
+              
+
+              .gallery-header .cta-button {
+                  background: #000 no-repeat padding-box;
+                  border-radius: 8px;
+                  color: #fff;
+                  text-transform: uppercase;
+                  padding: 0.6rem 1.5rem;
+                  display: inline-block;
+                  position: relative;
+                  font-size: 1.25rem;
+                  max-width: 15rem;
+                  transition: background .3s ease, color .3s ease;
+                  box-shadow: 0 0 10px #0000001F;
+                  border: 1px solid #000;
+                  align-self: flex-start;
+              }
+              .gallery-header .cta-button:hover {
+                text-decoration: none;
+                background: #fff;
+                color: #000;
+              }
+            </style>
           </div>    
         </li>
-        
+
       {{else}}
      
         <li class="brand-img-cnt {{ if (eq $index 0) }}active{{ end }} ">
@@ -255,10 +248,10 @@
                 </a>
             {{end}}
         </li>
-      {{end}} 
+      {{end}}
       {{end}}
     </ul>
-    {{end}} */}}
+    {{end}}
   </section>
 {{end}}
 {{ with .Params.nasze_produkty }}
