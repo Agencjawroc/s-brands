@@ -181,8 +181,8 @@
   {{$tytul_odnosnika:= .tytul_odnosnika}}
   {{$adres_odnosnika:= .adres_odnosnika}}
   <section class="ourbrands-area" >
-    <ul class="brands-img-wrapper">
-      <li class="gallery-header" style="grid-area:unset"><div class="header-cnt" style="flex-direction:column"><h3 class="header-template banner-header marki-custom"><span class="f-w700 txt-black txt-XL">Nasze marki</span></h3><a class="cta-button" href="/nasze-marki/">Sprawdź</a>
+    <ul class="brands-img-wrapper" style="grid-template-columns: unset;">
+      <li class="gallery-header" style="grid-area:unset"><div class="header-cnt" style="flex-direction:column; align-items: center;"><h3 class="header-template banner-header marki-custom"><span class="f-w700 txt-black txt-XL">Nasze marki</span></h3><a class="cta-button" href="/nasze-marki/">Sprawdź</a>
         <style>
           .marki-custom{
             padding: 0 !important;
@@ -200,7 +200,6 @@
               transition: background .3s ease, color .3s ease;
               box-shadow: 0 0 10px #0000001F;
               border: 1px solid #000;
-              align-self: flex-start;
           }
           .gallery-header .cta-button:hover {
             text-decoration: none;
