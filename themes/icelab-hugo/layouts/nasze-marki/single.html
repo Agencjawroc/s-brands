@@ -99,7 +99,7 @@
             {{end}}
         {{end}}
     {{end}}
-    <section class="other-brands">
+    <!-- <section class="other-brands">
         {{ $sectionPages := where (where site.RegularPages "Section" "nasze-marki")   ".Params.slug" "!=" .Params.slug }}
               {{ if ge (len $sectionPages) 1 }}
               <div class="header-template ">
@@ -118,7 +118,7 @@
                 {{end}}
               </ul>
             {{end}}
-    </section>
+    </section> -->
     {{if .Params.dodaj_formularz }}
         {{- partial "form_full.html" . -}}
     {{end}}
