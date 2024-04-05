@@ -42,7 +42,7 @@
             </div>
             {{end}}
             
-            <div class="brand-logo-cnt"> <img class='banner-logo' src="{{ .logo_marki }}" alt="{{.alt_img}}"></div>
+            {{/* <div class="brand-logo-cnt"> <img class='banner-logo' src="{{ .logo_marki }}" alt="{{.alt_img}}"></div> */}}
             <div class="banner-logo-cnt"> <img class='banner-logo' src="{{ `images/s-brands-logo.svg` | absURL }}"></div>
         
             <div class='header-cnt'>
@@ -68,6 +68,20 @@
         {{end}}
     {{end}}
     </section>
+
+    <style>
+        .header-cnt ul{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 35px;
+            padding-left: 20px;
+            row-gap: 15px;
+        }
+        .header-cnt li{
+            font-size: 22px;
+        }
+    </style>
+
     {{ with .Params }}
         {{if (isset . "opis_longer")}}
             {{with .opis_longer}}
