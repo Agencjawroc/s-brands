@@ -261,6 +261,32 @@ break_line = false
 txt_block = "Professional care"
 txt_block_size = "XL"
 underline = false
+[[nasze_produkty.grupy_produktow]]
+adres_odnosnika = "nasze-marki/_index.md"
+kotwica_grupy = "dermocosmetics"
+opis_sekcji = ""
+tytul_odnosnika = "Dermokosmetyki"
+zdjecie = "/uploads/sbrands-main-skin.jpg"
+[[nasze_produkty.grupy_produktow.header_repeater]]
+block_tag_type = "h3"
+bold_txt = "gruby"
+break_line = false
+txt_block = "Dermocosmetics"
+txt_block_size = "XL"
+underline = false
+[[nasze_produkty.grupy_produktow]]
+adres_odnosnika = "nasze-marki/_index.md"
+kotwica_grupy = "fragrances"
+opis_sekcji = ""
+tytul_odnosnika = "Perfumy"
+zdjecie = "/uploads/sbrands-main-makeup.jpg"
+[[nasze_produkty.grupy_produktow.header_repeater]]
+block_tag_type = "h3"
+bold_txt = "gruby"
+break_line = false
+txt_block = "Fragrances"
+txt_block_size = "XL"
+underline = false
 [[nasze_produkty.header_repeater]]
 block_tag_type = "h3"
 bold_txt = "gruby"
