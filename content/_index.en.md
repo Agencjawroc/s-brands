@@ -184,10 +184,6 @@ ikona_marki = "/uploads/group-187.jpg"
 odnosnik_marki = ""
 tytul_marki = "Skeyndor"
 [[nasze_marki.grupa_marek]]
-ikona_marki = "/uploads/group-189.jpg"
-odnosnik_marki = "nasze-marki/thalgo.md"
-tytul_marki = "Thalgo"
-[[nasze_marki.grupa_marek]]
 ikona_marki = "/uploads/group-188.jpg"
 odnosnik_marki = "nasze-marki/svr.md"
 tytul_marki = "SVR"
