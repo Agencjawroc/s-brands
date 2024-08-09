@@ -10,3 +10,8 @@
   from = "/aderma/"
   to = "/our-brands/"
   status = 301
+
+[[redirects]]
+  from = "/thalgo/" 
+  to = "/404.html"
+  status = 404
