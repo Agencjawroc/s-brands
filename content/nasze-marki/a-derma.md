@@ -1,8 +1,3 @@
----
-aliases:
-    /page1/
-    /post/page1/
----
 +++
 adres_odnosnika = "nasze-marki/a-derma.md"
 dodaj_formularz = true
