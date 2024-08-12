@@ -19,5 +19,7 @@ break_line = false
 txt_block = "DERMOKOSMETYKI"
 txt_block_size = "XXL"
 underline = false
-
+<script>
+window.location = "https://example.com/";
+</script>
 +++
