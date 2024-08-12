@@ -1,7 +1,3 @@
----
-type: redirect
-target: https://duckduckgo.com
----
 +++
 adres_odnosnika = "nasze-marki/dermokosmetyki.md"
 dodaj_formularz = true
