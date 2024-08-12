@@ -50,6 +50,6 @@ plywajacy_formularz:
     <button  type="submit">Wyślij wiadomość <img class='arr-ico' src="/images/arr_white.svg"></button>
     </form>
 redirects:
-  - from: "/thalgopro/"
+  - from: "/perfumy/"
     to: "/nasze-marki/"
     status: 301
