@@ -49,3 +49,7 @@ plywajacy_formularz:
     </div>
     <button  type="submit">Wyślij wiadomość <img class='arr-ico' src="/images/arr_white.svg"></button>
     </form>
+redirects:
+  - from: "/thalgopro/"
+    to: "/nasze-marki/"
+    status: 301
