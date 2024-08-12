@@ -10,6 +10,3 @@
   from = "/aderma/"
   to = "/our-brands/"
   status = 301
-  from = "/thalgo/"
-  to = "/nasze-marki/"
-  status = 301
