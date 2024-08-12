@@ -34,7 +34,3 @@ URL = "plugins/plugins.js"
 nasze-marki = "/:slug/"
 page = "/:slug/"
 posts = "/:slug/"
-[[redirects]]
-    from = "/thalgo/"
-    to = "/nasze-marki/"
-    status = 301
