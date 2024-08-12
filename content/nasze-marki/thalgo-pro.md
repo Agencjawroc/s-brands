@@ -1,5 +1,5 @@
 +++
-adres_odnosnika = "nasze-marki/thalgo-pro.md"
+adres_odnosnika = "nasze-marki/thalgo-pro-2.md"
 dodaj_formularz = true
 html_czysty = ""
 logo_marki = "/uploads/thalgo-logo.jpg"
