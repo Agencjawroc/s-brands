@@ -1,3 +1,7 @@
+---
+type: redirect
+target: https://duckduckgo.com
+---
 +++
 adres_odnosnika = "nasze-marki/thalgo-pro.md"
 dodaj_formularz = true
