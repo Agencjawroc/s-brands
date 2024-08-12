@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{$bread:= .}}
 {{$sites :=.Sites.First.GetPage "/uploads"}}
+{{- template "_internal/alias.html" (dict "Permalink" .Params.target) -}}
     
     <section class="banner-area" >
         {{ partial "breadcrumbs.html" $bread }}
