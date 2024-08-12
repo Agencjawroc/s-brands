@@ -1,6 +1,3 @@
-<script>
-  window.location = "https://google.com/";
-</script>
 +++
 adres_odnosnika = "nasze-marki/dermokosmetyki.md"
 dodaj_formularz = true
