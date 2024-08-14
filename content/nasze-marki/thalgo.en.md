@@ -18,6 +18,6 @@ bold_txt = "gruby"
 break_line = false
 txt_block = "Page not found"
 txt_block_size = "XXL"
-underline = true
+underline = false
 
 +++
