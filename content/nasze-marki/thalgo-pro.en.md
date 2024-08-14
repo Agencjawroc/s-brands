@@ -1,6 +1,6 @@
 +++
 adres_odnosnika = "nasze-marki/thalgo-pro.md"
-dodaj_formularz = true
+dodaj_formularz = false
 html_czysty = ""
 logo_marki = ""
 meta_opis = ""
@@ -18,6 +18,6 @@ bold_txt = "gruby"
 break_line = false
 txt_block = "Page not found"
 txt_block_size = "XXL"
-underline = false
+underline = true
 
 +++
