@@ -5,7 +5,7 @@ html_czysty = ""
 logo_marki = ""
 meta_opis = ""
 meta_robots = "noindex, follow"
-name = "Strona nie została znaleziona"
+name = "Thalgo"
 opis_pod_naglowiekm = "Wygląda na to, że ta strona nie istnieje.\n\n    <p><a class=\"brand_link\" href=\"https://s-brands.pl/\" rel=\"nofollow\" target=\"_blank\">Wróć do strony głównej</a></p>"
 slug = "thalgo"
 title = "Strona nie została znaleziona | S-brands.pl"
@@ -19,6 +19,6 @@ bold_txt = "gruby"
 break_line = false
 txt_block = "Strona nie została znaleziona"
 txt_block_size = "XXL"
-underline = true
+underline = false
 
 +++
