@@ -1,10 +1,10 @@
 +++
 adres_odnosnika = "nasze-marki/thalgo.md"
-dodaj_formularz = true
+dodaj_formularz = false
 html_czysty = ""
 logo_marki = ""
 meta_opis = ""
-meta_robots = ""
+meta_robots = "noindex, follow"
 name = "Page not found"
 opis_pod_naglowiekm = "It looks like this page does not exist.\n\n    <p><a class=\"brand_link\" href=\"https://www.thalgo.com/\" rel=\"nofollow\" target=\"_blank\">Return to the main page</a></p>"
 slug = "thalgo"
