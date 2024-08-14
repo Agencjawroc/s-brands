@@ -17,7 +17,7 @@ opis_longer="Wygląda na to, że link, który tu wskazywał, był uszkodzony. Mo
 block_tag_type = "h1"
 bold_txt = "gruby"
 break_line = false
-txt_block = "THALGO"
+txt_block = "Strona nie została znaleziona"
 txt_block_size = "XXL"
 underline = false
 
